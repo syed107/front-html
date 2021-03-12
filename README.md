@@ -5,6 +5,7 @@ basic html files for the implementation of the front-end development
      <title> my project </title>
   </head>
   <body>
-    <p1> fkvfvfkvr</p1>
+  
+    <p2>my name is muzammil ahmed </p2>
   </body>
   <title> 
